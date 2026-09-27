@@ -1,0 +1,10 @@
+{
+  "name": "101-football-transfer-lab",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "test": "node --test transfer-lab/tests/*.test.mjs",
+    "data:refresh": "node transfer-lab/data/update-data.mjs"
+  }
+}

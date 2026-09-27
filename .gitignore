@@ -1,0 +1,5 @@
+.DS_Store
+output/
+transfer-lab/
+.netlify/
+node_modules/

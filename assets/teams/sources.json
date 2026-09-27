@@ -1,0 +1,152 @@
+[
+  {
+    "id": "man-united",
+    "name": "Manchester United",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+    "file": "assets/teams/man-united.png"
+  },
+  {
+    "id": "man-city",
+    "name": "Manchester City",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png",
+    "file": "assets/teams/man-city.png"
+  },
+  {
+    "id": "bayern",
+    "name": "Bayern Munich",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+    "file": "assets/teams/bayern.png"
+  },
+  {
+    "id": "barcelona",
+    "name": "Barcelona",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+    "file": "assets/teams/barcelona.png"
+  },
+  {
+    "id": "arsenal",
+    "name": "Arsenal",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png",
+    "file": "assets/teams/arsenal.png"
+  },
+  {
+    "id": "dortmund",
+    "name": "Borussia Dortmund",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/124.png",
+    "file": "assets/teams/dortmund.png"
+  },
+  {
+    "id": "juventus",
+    "name": "Juventus",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+    "file": "assets/teams/juventus.png"
+  },
+  {
+    "id": "napoli",
+    "name": "Napoli",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png",
+    "file": "assets/teams/napoli.png"
+  },
+  {
+    "id": "liverpool",
+    "name": "Liverpool",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+    "file": "assets/teams/liverpool.png"
+  },
+  {
+    "id": "chelsea",
+    "name": "Chelsea",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
+    "file": "assets/teams/chelsea.png"
+  },
+  {
+    "id": "tottenham",
+    "name": "Tottenham Hotspur",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png",
+    "file": "assets/teams/tottenham.png"
+  },
+  {
+    "id": "real-madrid",
+    "name": "Real Madrid",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+    "file": "assets/teams/real-madrid.png"
+  },
+  {
+    "id": "atletico",
+    "name": "Atlético Madrid",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+    "file": "assets/teams/atletico.png"
+  },
+  {
+    "id": "leverkusen",
+    "name": "Bayer Leverkusen",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+    "file": "assets/teams/leverkusen.png"
+  },
+  {
+    "id": "milan",
+    "name": "AC Milan",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+    "file": "assets/teams/milan.png"
+  },
+  {
+    "id": "inter",
+    "name": "Internazionale",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+    "file": "assets/teams/inter.png"
+  },
+  {
+    "id": "roma",
+    "name": "AS Roma",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+    "file": "assets/teams/roma.png"
+  },
+  {
+    "id": "psg",
+    "name": "Paris Saint-Germain",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+    "file": "assets/teams/psg.png"
+  },
+  {
+    "id": "newcastle",
+    "name": "Newcastle United",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png",
+    "file": "assets/teams/newcastle.png"
+  },
+  {
+    "id": "everton",
+    "name": "Everton",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png",
+    "file": "assets/teams/everton.png"
+  },
+  {
+    "id": "ajax",
+    "name": "Ajax Amsterdam",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/139.png",
+    "file": "assets/teams/ajax.png"
+  },
+  {
+    "id": "al-nassr",
+    "name": "Al Nassr",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/817.png",
+    "file": "assets/teams/al-nassr.png"
+  },
+  {
+    "id": "inter-miami",
+    "name": "Inter Miami CF",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png",
+    "file": "assets/teams/inter-miami.png"
+  },
+  {
+    "id": "beijing-guoan",
+    "name": "Beijing Guoan",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/2052.png",
+    "file": "assets/teams/beijing-guoan.png"
+  },
+  {
+    "id": "shandong-taishan",
+    "name": "Shandong Taishan",
+    "source": "https://a.espncdn.com/i/teamlogos/soccer/500/7521.png",
+    "file": "assets/teams/shandong-taishan.png"
+  }
+]

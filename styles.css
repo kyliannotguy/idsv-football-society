@@ -72,6 +72,11 @@ html[lang="en"] .player-info .mini-label{line-height:1.7}
 }
 .join h2 em{color:#f0b5bc}
 @media(max-width:800px){
+  .topbar{height:auto;min-height:72px;flex-wrap:wrap;padding-top:16px;padding-bottom:12px;row-gap:16px}
+  .topbar .nav{display:flex;order:4;flex:0 0 100%;width:100%;overflow-x:auto;margin:0;padding:8px 0 3px;gap:22px;border-top:1px solid var(--line);font-size:11px}
+  .topbar .nav a{flex-shrink:0}
+}
+@media(max-width:800px){
   .hero{grid-template-columns:minmax(0,1fr)}
   .club-badge{max-width:100%;height:auto;aspect-ratio:1}
 }

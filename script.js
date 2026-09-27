@@ -4,7 +4,7 @@ const dialogBody = document.querySelector('#dialog-body');
 let currentLang = 'zh';
 const copy = {
   zh: {
-    nav: ['关于社团', '文章档案', '主队看台', '转会实验室 ↗'], join: '加入社团',
+    nav: ['关于社团', '每周最佳', '文章档案', '主队看台', '转会实验室 ↗'], join: '加入社团',
     heroTitle: '从一场比赛，<br /><em>读懂更大的世界。</em>', heroLede: '北京101中学足球社团。我们观察比赛，也分享球队、球员与球迷的故事。', heroPrimary: '阅读社团文章', heroSecondary: '了解我们',
     ticker: ['FOOTBALL · ANALYSIS · CULTURE', '一零一赛后情书', '在101，看见足球的更多可能', 'FOOTBALL · ANALYSIS · CULTURE'],
     aboutTitle: '一群认真看球的<br /><em>学生。</em>', aboutBody: '我们是北京101中学的足球社团，因对比赛、球队与球迷文化的共同兴趣相聚。社团成员支持不同的主队，来自皇马、巴萨、英超球队、德甲球队、米兰双雄，以及北京国安、山东泰山等21支主队。我们分享比赛观察、球队故事和个人观点，让不同的立场在同一片看台相遇。公众号“一零一赛后情书”记录社团里的足球故事，也欢迎每一位认真看球的人加入讨论。', stats: ['群成员', '主队档案'],
@@ -14,7 +14,7 @@ const copy = {
     footer: '足球 · 分析 · 文化', close: '关闭详情'
   },
   en: {
-    nav: ['About', 'Journal', 'Our Colours', 'Transfer Lab ↗'], join: 'Join us',
+    nav: ['About', 'Weekly Award', 'Journal', 'Our Colours', 'Transfer Lab ↗'], join: 'Join us',
     heroTitle: 'Read the world<br /><em>through the game.</em>', heroLede: 'A football society at Beijing 101 High School, sharing stories about matches, clubs, players and supporters.', heroPrimary: 'Read our journal', heroSecondary: 'About us',
     ticker: ['FOOTBALL · ANALYSIS · CULTURE', '一零一赛后情书', 'SEE MORE IN THE GAME AT 101', 'FOOTBALL · ANALYSIS · CULTURE'],
     aboutTitle: 'Students who<br /><em>love the game.</em>', aboutBody: 'We are a football society at Beijing 101 High School, brought together by a shared interest in matches, clubs and supporter culture. Our members support 21 different clubs, from Real Madrid, Barcelona and English and German sides to the Milan clubs, Beijing Guoan and Shandong Taishan. We share match observations, club stories and personal viewpoints, while the WeChat account 一零一赛后情书 records stories from our football community.', stats: ['Group members', 'Club profiles'],

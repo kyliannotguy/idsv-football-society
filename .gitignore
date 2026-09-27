@@ -1,5 +1,6 @@
 .DS_Store
 output/
-transfer-lab/
+transfer-lab/data/raw/
+.playwright-cli/
 .netlify/
 node_modules/
